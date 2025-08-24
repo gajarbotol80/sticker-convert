@@ -1,0 +1,8 @@
+{
+  "name": "convert-api",
+  "version": "1.0.0",
+  "dependencies": {
+    "@ffmpeg/ffmpeg": "^0.12.6",
+    "formidable": "^3.5.1"
+  }
+}
